@@ -1,0 +1,3 @@
+/home/gopinadh/projects/java/spring-kafka-hackathon/event-contracts/src/main/java/com/hackathon/events/InventoryEvent.java
+/home/gopinadh/projects/java/spring-kafka-hackathon/event-contracts/src/main/java/com/hackathon/events/OrderCreatedEvent.java
+/home/gopinadh/projects/java/spring-kafka-hackathon/event-contracts/src/main/java/com/hackathon/events/FraudEvent.java

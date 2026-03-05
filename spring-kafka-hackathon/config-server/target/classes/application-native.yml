@@ -1,0 +1,8 @@
+# Optional: use only if you run config from local files (e.g. for local dev without a config Git repo).
+# Run with: SPRING_PROFILES_ACTIVE=native CONFIG_REPO_PATH=/path/to/config-repo java -jar config-server.jar
+spring:
+  cloud:
+    config:
+      server:
+        native:
+          search-locations: file:${CONFIG_REPO_PATH:./config-repo-template}

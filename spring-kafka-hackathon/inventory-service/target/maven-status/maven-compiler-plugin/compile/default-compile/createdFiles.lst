@@ -1,0 +1,6 @@
+com/hackathon/inventory/config/KafkaConfig.class
+com/hackathon/inventory/config/OpenApiConfig.class
+com/hackathon/inventory/InventoryServiceApplication.class
+com/hackathon/inventory/api/StockController.class
+com/hackathon/inventory/service/InventoryValidator.class
+com/hackathon/inventory/listener/OrderCreatedListener.class

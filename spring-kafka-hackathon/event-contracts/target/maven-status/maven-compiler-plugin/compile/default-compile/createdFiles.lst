@@ -1,0 +1,5 @@
+com/hackathon/events/FraudEvent$Type.class
+com/hackathon/events/InventoryEvent$Type.class
+com/hackathon/events/InventoryEvent.class
+com/hackathon/events/FraudEvent.class
+com/hackathon/events/OrderCreatedEvent.class

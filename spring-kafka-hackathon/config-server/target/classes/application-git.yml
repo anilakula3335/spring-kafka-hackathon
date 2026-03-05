@@ -1,0 +1,8 @@
+# Git profile: uses same placeholders as application.yml (no hardcoding).
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: ${spring.cloud.config.server.git.uri}
+          default-label: main
